@@ -390,7 +390,7 @@ body {
 
         <section class="welcome" id="welcome">
             <div class="welcome-icon">✨</div>
-            <h2>HELLO PTHON</h2>
+            <h2>Hello PTHON</h2>
             <p>
                 I am your Smart Chatbot Assistant.<br>
                 Ask me a question in English or Hindi!
